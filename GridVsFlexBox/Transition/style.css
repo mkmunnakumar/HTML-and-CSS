@@ -1,0 +1,11 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background: pink;
+    transition-duration: 2s;
+    transition-property: transform;
+}
+.box:hover{
+    background: green;
+    transform: rotate(45deg);
+}

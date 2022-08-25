@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    margin: 0px;
+}
+header,
+aside,
+main,
+footer{
+    padding: 16px;
+    text-align: center;
+}
+header{
+    background: green;
+}
+aside{
+    background: blue;
+}
+main{
+    background: red;
+}
+footer{
+    background: black;
+}
